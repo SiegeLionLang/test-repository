@@ -8,3 +8,5 @@ console.log("four");
 
 console.log("beijing");
 console.log("nanjing");
+
+console.log("test-log1");
