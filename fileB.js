@@ -7,3 +7,4 @@ console.log("three");
 console.log("four");
 
 console.log("beijing");
+console.log("nanjing");
